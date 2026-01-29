@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Bai6_Client/1.0.0": {
+        "runtime": {
+          "Bai6_Client.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Bai6_Client/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

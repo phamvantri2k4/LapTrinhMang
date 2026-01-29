@@ -1,0 +1,14 @@
+D:\Ky 2 Nam 4\Lập trình mạng\Bai_Thuc_Hanh\LTM\Bai2_LocalInfo\bin\Debug\net8.0\Bai2_LocalInfo.exe
+D:\Ky 2 Nam 4\Lập trình mạng\Bai_Thuc_Hanh\LTM\Bai2_LocalInfo\bin\Debug\net8.0\Bai2_LocalInfo.deps.json
+D:\Ky 2 Nam 4\Lập trình mạng\Bai_Thuc_Hanh\LTM\Bai2_LocalInfo\bin\Debug\net8.0\Bai2_LocalInfo.runtimeconfig.json
+D:\Ky 2 Nam 4\Lập trình mạng\Bai_Thuc_Hanh\LTM\Bai2_LocalInfo\bin\Debug\net8.0\Bai2_LocalInfo.dll
+D:\Ky 2 Nam 4\Lập trình mạng\Bai_Thuc_Hanh\LTM\Bai2_LocalInfo\bin\Debug\net8.0\Bai2_LocalInfo.pdb
+D:\Ky 2 Nam 4\Lập trình mạng\Bai_Thuc_Hanh\LTM\Bai2_LocalInfo\obj\Debug\net8.0\Bai2_LocalInfo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ky 2 Nam 4\Lập trình mạng\Bai_Thuc_Hanh\LTM\Bai2_LocalInfo\obj\Debug\net8.0\Bai2_LocalInfo.AssemblyInfoInputs.cache
+D:\Ky 2 Nam 4\Lập trình mạng\Bai_Thuc_Hanh\LTM\Bai2_LocalInfo\obj\Debug\net8.0\Bai2_LocalInfo.AssemblyInfo.cs
+D:\Ky 2 Nam 4\Lập trình mạng\Bai_Thuc_Hanh\LTM\Bai2_LocalInfo\obj\Debug\net8.0\Bai2_LocalInfo.csproj.CoreCompileInputs.cache
+D:\Ky 2 Nam 4\Lập trình mạng\Bai_Thuc_Hanh\LTM\Bai2_LocalInfo\obj\Debug\net8.0\Bai2_LocalInfo.dll
+D:\Ky 2 Nam 4\Lập trình mạng\Bai_Thuc_Hanh\LTM\Bai2_LocalInfo\obj\Debug\net8.0\refint\Bai2_LocalInfo.dll
+D:\Ky 2 Nam 4\Lập trình mạng\Bai_Thuc_Hanh\LTM\Bai2_LocalInfo\obj\Debug\net8.0\Bai2_LocalInfo.pdb
+D:\Ky 2 Nam 4\Lập trình mạng\Bai_Thuc_Hanh\LTM\Bai2_LocalInfo\obj\Debug\net8.0\Bai2_LocalInfo.genruntimeconfig.cache
+D:\Ky 2 Nam 4\Lập trình mạng\Bai_Thuc_Hanh\LTM\Bai2_LocalInfo\obj\Debug\net8.0\ref\Bai2_LocalInfo.dll

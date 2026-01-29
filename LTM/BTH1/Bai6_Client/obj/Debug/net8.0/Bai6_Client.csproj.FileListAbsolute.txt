@@ -1,0 +1,14 @@
+D:\Ky 2 Nam 4\Lập trình mạng\Bai_Thuc_Hanh\LTM\Bai6_Client\bin\Debug\net8.0\Bai6_Client.exe
+D:\Ky 2 Nam 4\Lập trình mạng\Bai_Thuc_Hanh\LTM\Bai6_Client\bin\Debug\net8.0\Bai6_Client.deps.json
+D:\Ky 2 Nam 4\Lập trình mạng\Bai_Thuc_Hanh\LTM\Bai6_Client\bin\Debug\net8.0\Bai6_Client.runtimeconfig.json
+D:\Ky 2 Nam 4\Lập trình mạng\Bai_Thuc_Hanh\LTM\Bai6_Client\bin\Debug\net8.0\Bai6_Client.dll
+D:\Ky 2 Nam 4\Lập trình mạng\Bai_Thuc_Hanh\LTM\Bai6_Client\bin\Debug\net8.0\Bai6_Client.pdb
+D:\Ky 2 Nam 4\Lập trình mạng\Bai_Thuc_Hanh\LTM\Bai6_Client\obj\Debug\net8.0\Bai6_Client.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ky 2 Nam 4\Lập trình mạng\Bai_Thuc_Hanh\LTM\Bai6_Client\obj\Debug\net8.0\Bai6_Client.AssemblyInfoInputs.cache
+D:\Ky 2 Nam 4\Lập trình mạng\Bai_Thuc_Hanh\LTM\Bai6_Client\obj\Debug\net8.0\Bai6_Client.AssemblyInfo.cs
+D:\Ky 2 Nam 4\Lập trình mạng\Bai_Thuc_Hanh\LTM\Bai6_Client\obj\Debug\net8.0\Bai6_Client.csproj.CoreCompileInputs.cache
+D:\Ky 2 Nam 4\Lập trình mạng\Bai_Thuc_Hanh\LTM\Bai6_Client\obj\Debug\net8.0\Bai6_Client.dll
+D:\Ky 2 Nam 4\Lập trình mạng\Bai_Thuc_Hanh\LTM\Bai6_Client\obj\Debug\net8.0\refint\Bai6_Client.dll
+D:\Ky 2 Nam 4\Lập trình mạng\Bai_Thuc_Hanh\LTM\Bai6_Client\obj\Debug\net8.0\Bai6_Client.pdb
+D:\Ky 2 Nam 4\Lập trình mạng\Bai_Thuc_Hanh\LTM\Bai6_Client\obj\Debug\net8.0\Bai6_Client.genruntimeconfig.cache
+D:\Ky 2 Nam 4\Lập trình mạng\Bai_Thuc_Hanh\LTM\Bai6_Client\obj\Debug\net8.0\ref\Bai6_Client.dll

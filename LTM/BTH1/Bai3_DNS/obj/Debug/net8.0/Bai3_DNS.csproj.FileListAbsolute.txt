@@ -1,0 +1,14 @@
+D:\Ky 2 Nam 4\Lập trình mạng\Bai_Thuc_Hanh\LTM\Bai3_DNS\bin\Debug\net8.0\Bai3_DNS.exe
+D:\Ky 2 Nam 4\Lập trình mạng\Bai_Thuc_Hanh\LTM\Bai3_DNS\bin\Debug\net8.0\Bai3_DNS.deps.json
+D:\Ky 2 Nam 4\Lập trình mạng\Bai_Thuc_Hanh\LTM\Bai3_DNS\bin\Debug\net8.0\Bai3_DNS.runtimeconfig.json
+D:\Ky 2 Nam 4\Lập trình mạng\Bai_Thuc_Hanh\LTM\Bai3_DNS\bin\Debug\net8.0\Bai3_DNS.dll
+D:\Ky 2 Nam 4\Lập trình mạng\Bai_Thuc_Hanh\LTM\Bai3_DNS\bin\Debug\net8.0\Bai3_DNS.pdb
+D:\Ky 2 Nam 4\Lập trình mạng\Bai_Thuc_Hanh\LTM\Bai3_DNS\obj\Debug\net8.0\Bai3_DNS.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ky 2 Nam 4\Lập trình mạng\Bai_Thuc_Hanh\LTM\Bai3_DNS\obj\Debug\net8.0\Bai3_DNS.AssemblyInfoInputs.cache
+D:\Ky 2 Nam 4\Lập trình mạng\Bai_Thuc_Hanh\LTM\Bai3_DNS\obj\Debug\net8.0\Bai3_DNS.AssemblyInfo.cs
+D:\Ky 2 Nam 4\Lập trình mạng\Bai_Thuc_Hanh\LTM\Bai3_DNS\obj\Debug\net8.0\Bai3_DNS.csproj.CoreCompileInputs.cache
+D:\Ky 2 Nam 4\Lập trình mạng\Bai_Thuc_Hanh\LTM\Bai3_DNS\obj\Debug\net8.0\Bai3_DNS.dll
+D:\Ky 2 Nam 4\Lập trình mạng\Bai_Thuc_Hanh\LTM\Bai3_DNS\obj\Debug\net8.0\refint\Bai3_DNS.dll
+D:\Ky 2 Nam 4\Lập trình mạng\Bai_Thuc_Hanh\LTM\Bai3_DNS\obj\Debug\net8.0\Bai3_DNS.pdb
+D:\Ky 2 Nam 4\Lập trình mạng\Bai_Thuc_Hanh\LTM\Bai3_DNS\obj\Debug\net8.0\Bai3_DNS.genruntimeconfig.cache
+D:\Ky 2 Nam 4\Lập trình mạng\Bai_Thuc_Hanh\LTM\Bai3_DNS\obj\Debug\net8.0\ref\Bai3_DNS.dll
