@@ -23,17 +23,12 @@ class Program
         string received = Encoding.UTF8.GetString(buffer, 0, bytesRead);
 
         Console.WriteLine("Chuoi nhan duoc: " + received);
-
-        // Chuyen sang chu IN HOA
         string upper = received.ToUpper();
-
-        // Gui lai cho Client
         byte[] sendData = Encoding.UTF8.GetBytes(upper);
         stream.Write(sendData, 0, sendData.Length);
 
         client.Close();
         server.Stop();
-
         Console.WriteLine("Server da dong.");
         Console.ReadLine();
     }

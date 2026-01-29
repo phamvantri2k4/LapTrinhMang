@@ -18,7 +18,6 @@ class Program
             }
             else
             {
-                // Lay 4 byte cua IPv4
                 byte[] bytes = ip.GetAddressBytes();
 
                 if (IPAddress.IsLoopback(ip))

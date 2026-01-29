@@ -17,17 +17,13 @@ class Program
 
         Console.Write("Nhap so b: ");
         int b = int.Parse(Console.ReadLine());
-
-        // Gui a va b cho Server (cach nhau boi dau cach)
         string message = a + " " + b;
         byte[] data = Encoding.UTF8.GetBytes(message);
         stream.Write(data, 0, data.Length);
 
-        // Nhan ket qua tu Server
         byte[] buffer = new byte[1024];
         int bytesRead = stream.Read(buffer, 0, buffer.Length);
         string result = Encoding.UTF8.GetString(buffer, 0, bytesRead);
-
         Console.WriteLine("Tong nhan duoc tu Server: " + result);
 
         client.Close();
